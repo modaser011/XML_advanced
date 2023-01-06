@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalogue>
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+<BOOK ID="666">
+  <Author>tgfg</Author>
+  <Title>gdfgdf</Title>
+  <Genre>Drama</Genre>
+  <Price>57.0</Price>
+  <Publish_Date>10/10/2001</Publish_Date>
+  <Description>fdj</Description>
+ </BOOK>
+ <BOOK ID="89">
+  <Author>ahmed</Author>
+  <Title>tytr</Title>
+  <Genre>Drama</Genre>
+  <Price>78.0</Price>
+  <Publish_Date>10/10/2001</Publish_Date>
+  <Description>dfsfds</Description>
+ </BOOK>
+ <BOOK ID="79">
+  <Author>hgfh</Author>
+  <Title>ghfh</Title>
+  <Genre>Drama</Genre>
+  <Price>67.0</Price>
+  <Publish_Date>20/10/1999</Publish_Date>
+  <Description>gfdh</Description>
+ </BOOK>
+ <BOOK ID="67">
+  <Author>fdsf</Author>
+  <Title>fdgdf</Title>
+  <Genre>Drama</Genre>
+  <Price>45.0</Price>
+  <Publish_Date>10/10/2010</Publish_Date>
+  <Description>sad</Description>
+ </BOOK>
+ <BOOK ID="20">
+  <Author>ahmed</Author>
+  <Title>wdef</Title>
+  <Genre>Drama</Genre>
+  <Price>80.0</Price>
+  <Publish_Date>11/11/2011</Publish_Date>
+  <Description>qd</Description>
+ </BOOK>
+ 
+</catalogue>
